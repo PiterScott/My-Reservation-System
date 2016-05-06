@@ -1,4 +1,4 @@
-# Reservation System
+# My-Reservation System
 
 Free Reservation System and booking manager for Existing Website,Blog or Facebook fans page, embed availability calendar, Take Online Reservations, Receive Online Payments.
 
