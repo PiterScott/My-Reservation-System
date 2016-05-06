@@ -1,0 +1,3 @@
+Copy the code below and paste it on your web page where you want the calendar to appear.
+
+<script type="text/javascript" src="https://myreservationsystem.com/embed/calendar.php?id=demo&view=0&lang=1&bgcolor=FFFFFF&width=400&height=400"></script>
